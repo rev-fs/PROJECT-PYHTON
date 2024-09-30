@@ -3,7 +3,7 @@ from threading import Thread
 import sys
 
 lyrics = [
-    ("Just trust me, you'll be fine", 0.09),
+    ("\n""Just trust me, you'll be fine", 0.09),
     ("And when I'm back in Chicago, I feel it", 0.09),
     ("Another version of me, I was in it", 0.09),
     ("I wave goodbye to the end of beginning", 0.08),

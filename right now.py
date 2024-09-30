@@ -18,7 +18,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("Right now", 0.11),
+        ("\n""Right now", 0.11),
         ("I wish you were here with me", 0.07),
         ("Cause right now", 0.09),
         ("Everything is new to me", 0.09),

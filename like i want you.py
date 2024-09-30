@@ -18,7 +18,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("See you face to face, I'm thinking 'bout the days we used to be", 0.05),
+        ("\n""See you face to face, I'm thinking 'bout the days we used to be", 0.05),
         ("But I can't make a scene, but I can't make a scene", 0.07),
         ("See you face to face, I'm thinking 'bout the days we used to be", 0.05),
         ("But I can't make a scene, but I can't make it seem", 0.07),

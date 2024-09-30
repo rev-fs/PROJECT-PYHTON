@@ -18,7 +18,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("Sudah adakah yang gantikanku", 0.10),
+        ("\n""Sudah adakah yang gantikanku", 0.10),
         ("Yang khawatirkanmu setiap waktu", 0.12),
         ("Yang cerita tentang apa pun sampai hal-hal tak perlu", 0.10),
         ("Kalau bisa, jangan buru-buru", 0.18),
