@@ -18,7 +18,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("I'm sorry if I say, I need you", 0.08),
+        ("\n""I'm sorry if I say, I need you", 0.08),
         ("But I don't care, I'm not scared of love", 0.06),
         ("Cause when I'm not with you, I'm weaker", 0.07),
         ("Is that so wrong? Is it so wrong", 0.08),

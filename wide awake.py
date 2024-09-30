@@ -18,7 +18,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("Falling from cloud nine", 0.12),
+        ("\n""Falling from cloud nine", 0.12),
         ("Crashing from the high", 0.11),
         ("I'm letting go tonight", 0.11),
         ("I'm Falling from cloud nine", 0.12),
