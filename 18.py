@@ -18,7 +18,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("I have loved you since we were 18", 0.08),
+        ("\n""I have loved you since we were 18", 0.08),
         ("Long before we both thought the same thing", 0.07),
         ("To be loved and to be in love", 0.07),
         ("And all I could do is say that these arms were made for holding you oh oh oh whoa", 0.07),

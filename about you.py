@@ -18,7 +18,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("Do you think I have forgotten?", 0.1),
+        ("\n""Do you think I have forgotten?", 0.1),
         ("Do you think I have forgotten?", 0.1),
         ("Do you think I have forgotten", 0.1),
         ("about you?", 0.2),

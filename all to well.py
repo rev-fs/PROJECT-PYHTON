@@ -18,7 +18,7 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("Just between us, I remember it, all too well", 0.11),
+        ("\n""Just between us, I remember it, all too well", 0.11),
         ("Wind in my hair, I was there, I was there", 0.08),
         ("Down the stairs, I was there, I was there", 0.08),
         ("Sacred prayer, I was there, I was there", 0.09),
