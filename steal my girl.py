@@ -18,16 +18,20 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("\n""Janganlah kau tinggalkan diri ku", 0.1),
-        ("Tak kan mampu menghadapi semua", 0.12),
-        ("Hanya bersamamu ku akan bisa", 0.11),
-        ("Kau adalah darah ku", 0.10),
-        ("Kau adalah jantung ku", 0.10),
-        ("Kau adalah hidup ku lengkapi diri ku", 0.10),
-        ("Oh sayangku kau begitu", 0.1),
-        ("Sempurnaaaaaaaaaaaaaaaaa", 0.1)
+        ("\n""She's been my queen", 0.07),
+        ("Since we were sixteen", 0.07),
+        ("We want the same things", 0.07),
+        ("We dream the same dreams", 0.07),
+        ("Alright", 0.07),
+        ("Alright", 0.07),
+        ("\n""I got it all", 0.07),
+        ("Cause she is the one", 0.07),
+        ("Her mum calls me love", 0.07),
+        ("Her dad calls me son", 0.07),
+        ("Alright", 0.07),
+        ("Alright", 0.07),
     ]
-    delays = [0.3, 4.5, 9.3, 14.1, 18.8, 23.0, 28.0, 34.5]
+    delays = [0.3, 1.7, 3.0, 4.5, 6.0, 9.5, 12.9, 13.9, 15.5, 17.0, 18.5, 22.0]
     
     threads = []
     for i in range(len(lyrics)):
